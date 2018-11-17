@@ -11,4 +11,4 @@ go get github.com/beego/bee
 Acesse a pasta do projeto e execute o comando:
 bee run -downdoc=true -gendoc=true
 
-Abra o navegador e digite: localhost:8081:
+Abra o navegador e digite: http://localhost:8080/swagger
