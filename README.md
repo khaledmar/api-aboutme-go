@@ -5,9 +5,9 @@ Para executar o projeto é necessário instalar e configurar GOLANG: https://gol
 
 Após concluir as configurações abra seu terminal/prompt e execute os comandos para instalar os pacotes:
 
-go get gopkg.in/mgo.v2
-go get github.com/astaxie/beego
-go get github.com/beego/bee
+go get gopkg.in/mgo.v2  
+go get github.com/astaxie/beego  
+go get github.com/beego/bee  
 
 Acesse a pasta do projeto e execute o comando:
 bee run -downdoc=true -gendoc=true
